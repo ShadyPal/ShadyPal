@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShadyPal
-- 👀 I’m interested in human and computational languages.
-- 🌱 I’m currently learning JavaScript/ Java.
+- 👀 I’m interested in human and computational languages, and music.
+- 🌱 I’m currently learning JavaScript/ Java to build a robust Language Learning Service.
 - 💞️ I’m looking to collaborate on a Telegram Language App Project
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
