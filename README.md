@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning JavaScript/ OpenAI/ Reactive Programming/ Java to build a robust Language Learning Service.
 - 💞️ I’m looking to collaborate on a Telegram Language App Project
 - 📫 How to reach me: https://t.me/vladislavbizhbalov
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I speak German, play basketball in D-league and rap in my free time
 
 <!---
 ShadyPal/ShadyPal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
