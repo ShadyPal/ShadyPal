@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ShadyPal. I am currently creating a Language Learning App on Telegram.
-- 👀 I’m interested in cultures, human and computational languages, sports, movies and music.
-- 🌱 I’m currently learning JavaScript/ OpenAI/ Reactive Programming/ Java to build a robust Language Learning Service.
-- 💞️ I’m now developing a Telegram Language App Project.
+- 👋 Hi, I'm @ShadyPal. I am currently creating a Language Learning App on Telegram.
+- 👀 I'm interested in cultures, human and computational languages, sports, movies and music.
+- 🌱 I'm currently exploring JavaScript, OpenAI, Reactive Programming.
+- 💞️ I'm now enhancing English for Closers/ Testing for Closers/ Grammar for Closers.
 - 📫 How to reach me: https://t.me/vladislavbizhbalov
 - ⚡ Fun fact: I speak German, play basketball in D-league and sing in my free time.
 
